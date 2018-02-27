@@ -6,7 +6,7 @@
   <artifactId>webapps1</artifactId>
   <packaging>war</packaging>
   <version>4.0-SNAPSHOT</version>
-  <name>webapps</name>
+  <name>webapps1</name>
   <url>http://maven.apache.org</url>
 
   <properties>
