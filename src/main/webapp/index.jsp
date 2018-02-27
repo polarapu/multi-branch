@@ -1,9 +1,9 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Hello DevOps</title>
+<title>Hello DevOps(master1- Branch)</title>
 </head>
-<body bgcolor="#E6666A">
+<body bgcolor="#6600AA">
 
 <h1>Create a new person</h1>
 <mak:newForm type="general.Person" action="index.jsp">

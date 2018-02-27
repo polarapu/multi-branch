@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>we.com</groupId>
-  <artifactId>webapps</artifactId>
+  <artifactId>webapps1</artifactId>
   <packaging>war</packaging>
   <version>4.0-SNAPSHOT</version>
   <name>webapps</name>
